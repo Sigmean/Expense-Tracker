@@ -1,4 +1,4 @@
-# Expense Tracker
+# GamjaTongJang
 
 Simple expense tracker app built with Flutter.
 
@@ -14,3 +14,9 @@ Simple expense tracker app built with Flutter.
 - Flutter
 - Firebase
 - Firestore
+
+## Future Plans
+
+- Budget system
+- Statistics
+- Notification
